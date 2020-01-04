@@ -35,7 +35,7 @@
 
 ![](./res/python-cd-salary.png)
 
-给初学者的几个建议（老司机的忠告）：
+给初学者的几个建议：
 
 - Make English as your working language.
 - Practice makes perfect.
